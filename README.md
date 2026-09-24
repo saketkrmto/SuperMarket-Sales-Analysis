@@ -115,7 +115,8 @@ A future e-commerce/customer dataset with historical purchases and a separated o
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- Excel / tabular data
+- Excel / VBA (Visual Basic for Applications)
+- VBScript
 
 ## 11. Project Files
 
@@ -125,6 +126,8 @@ Saket_SupermarketSalesAnalysis/
 ├── requirements.txt
 ├── Saket_SupermarketSalesAnalysis_ProjectReport.docx
 ├── README.md
+├── SuperMarket_Dashboard.xlsm
+├── create_dashboard.vbs
 └── dataset/
     └── supermarket_sales.xlsx
 ```
@@ -139,10 +142,17 @@ pip install -r requirements.txt
 
 ## 13. How to Run
 
+### Python Analysis:
 1. Put the dataset workbook beside the notebook.
 2. Open `Saket_SupermarketSalesAnalysis.ipynb` in Jupyter Notebook/JupyterLab.
 3. Run cells from top to bottom.
 4. Review the tables, charts, observations, and business insights.
+
+### Excel VBA Dashboard:
+1. Open `SuperMarket_Dashboard.xlsm` in Excel.
+2. Navigate to the `Dashboard` sheet.
+3. Click the **Refresh Dashboard** button to run the embedded VBA macro.
+4. *(Optional)* Run `cscript //nologo create_dashboard.vbs` in the command prompt to automatically regenerate the dashboard file.
 
 ## 14. Future Scope
 
