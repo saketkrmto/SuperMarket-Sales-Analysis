@@ -32,7 +32,7 @@ The workbook contains 500 transaction records with:
 `Invoice ID`, `Date`, `Branch`, `City`, `Customer Type`, `Gender`, `Product`, `Category`, `Quantity`, `Unit Price`, `Payment`, `Rating`, `Sales`.
 
 **Dataset source:** Internship/project-provided dataset.  
-**Dataset link:** [](https://docs.google.com/spreadsheets/d/1QIX__4VObHFMEXnRM2xJyXmB5JAB2peHrJcQ41_U9TE/edit?usp=sharing)
+**Dataset link:** [Google Sheets Dataset](https://docs.google.com/spreadsheets/d/1QIX__4VObHFMEXnRM2xJyXmB5JAB2peHrJcQ41_U9TE/edit?usp=sharing)
 
 ## 5. Key Results
 
