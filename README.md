@@ -154,6 +154,10 @@ pip install -r requirements.txt
 3. Click the **Refresh Dashboard** button to run the embedded VBA macro.
 4. *(Optional)* Run `cscript //nologo create_dashboard.vbs` in the command prompt to automatically regenerate the dashboard file.
 
+> **Note (Troubleshooting):** If you encounter a "Source file is untrusted" or macro block error in Excel:
+> - **Option 1:** Right-click the `.xlsm` file in File Explorer, select **Properties**, check **Unblock** at the bottom, and click Apply.
+> - **Option 2:** In Excel, go to **File > Options > Trust Center > Trust Center Settings > Trusted Locations**, click **Add new location...**, and add the cloned project folder.
+
 ## 14. Future Scope
 
 - Add `Customer_ID` and historical customer purchases.
