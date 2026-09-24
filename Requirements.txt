@@ -1,0 +1,7 @@
+pandas – Data loading, cleaning, and analysis
+numpy – Numerical calculations
+matplotlib – Data visualization
+seaborn – Statistical visualizations
+openpyxl – Reading Excel datasets
+jupyter – Jupyter environment
+notebook – Running Jupyter Notebooks
